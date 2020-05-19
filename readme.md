@@ -9,7 +9,7 @@
 ---
 # Code List
 
-+ Perceptron  
++ Perceptron
     1. MLP  
     
 + Computer Vision
@@ -26,5 +26,5 @@
     8. GAN_MNIST  
     9. Deep Dream  
     
-+ Reinforcement Learning
++ Reinforcement Learning  
     10. Reinforcement
