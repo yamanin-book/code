@@ -12,19 +12,19 @@
 + Perceptron
   1. MLP  
     
-+ Computer Vision
-    2. CNN_MNIST  
-    3. Dog and Cat Image Classification  
-    4. YOLO  
++ Computer Vision  
+  2. CNN_MNIST  
+  3. Dog and Cat Image Classification  
+  4. YOLO  
   
-+ Sequential Model
-    5. RNN  
-    6. LSTM  
-    7. music generation with LSTM  
++ Sequential Model  
+  5. RNN  
+  6. LSTM  
+  7. music generation with LSTM  
     
-+ Generative Model
-    8. GAN_MNIST  
-    9. Deep Dream  
++ Generative Model  
+  8. GAN_MNIST  
+  9. Deep Dream  
     
 + Reinforcement Learning  
-    10. Reinforcement
+  10. Reinforcement
