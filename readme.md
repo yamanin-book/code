@@ -10,7 +10,7 @@
 # Code List
 
 + Perceptron
-    1. MLP  
+  1. MLP  
     
 + Computer Vision
     2. CNN_MNIST  
